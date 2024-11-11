@@ -15,4 +15,4 @@ inputs:
   name:
     description: The commiter's name
     required: true
-    default: ${{ github.actor }}@localhost
+    default: ${{ github.actor }}
